@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Привет, я LEGAL3529
 
-<!--
-**LEGAL3529/LEGAL3529** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💼 Junior Quant Developer | Python | Strategy Backtesting  
+🧪 Люблю строить алгоритмические стратегии и тестировать их на реальных данных.
 
-Here are some ideas to get you started:
+## 🧠 Мои проекты
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [📊 Quant Strategy Backtest](https://github.com/LEGAL3529/quant-strategy-backtest)  
+  SMA, RSI, Momentum и другие стратегии с визуализацией
+
+## 🛠️ Навыки
+
+- Python, Pandas, Numpy
+- Matplotlib, Seaborn
+- yFinance, Backtesting
+- Git, GitHub
+
+## 📬 Контакты
+
+- Email: vip.keldibekov@mail.ru
+- Telegram: [@Legal Lega]
